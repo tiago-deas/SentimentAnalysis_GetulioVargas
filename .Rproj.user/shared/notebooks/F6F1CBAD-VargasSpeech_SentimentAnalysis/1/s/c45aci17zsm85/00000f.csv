@@ -1,4 +1,0 @@
-"0","speech_noMarks <- stri_trans_general(speech_final$word, ""Latin-ASCII"") "
-"0",""
-"0","speech_final$noMarks <- speech_noMarks"
-"0","  "

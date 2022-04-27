@@ -1,7 +1,0 @@
-"0",""
-"0","vargas_speech <- read.delim(""GetulioVargas_speech.txt"", header = F, encoding = ""UTF-8"") %>% "
-"0","  rename (""text"" = ""V1"")"
-"0",""
-"0","vargas_speech %>% "
-"0","  head(15) %>% "
-"0","  knitr::kable()"

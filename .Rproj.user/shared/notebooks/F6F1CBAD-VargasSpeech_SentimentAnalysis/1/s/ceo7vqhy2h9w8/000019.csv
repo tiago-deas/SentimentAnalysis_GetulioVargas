@@ -1,4 +1,0 @@
-"0","dict_complete %>% "
-"0","  filter(word == ""partidos"") %>% "
-"0","  select(everything(), -(3)) %>% "
-"0","  knitr::kable()"

@@ -1,8 +1,0 @@
-"0",""
-"0","sent_score_cloud  %>% "
-"0","  acast(word ~ sentiment, value.var = ""n"", fill = 0, fun.aggregate = sum) %>% "
-"0","  comparison.cloud(colors = c(""red2"", ""darkgreen""),"
-"0","                   scale = c(6, 0.5),"
-"0","                   max.words = 50,"
-"0","                   title.bg.colors = ""white"","
-"0","                   title.size = 3)"

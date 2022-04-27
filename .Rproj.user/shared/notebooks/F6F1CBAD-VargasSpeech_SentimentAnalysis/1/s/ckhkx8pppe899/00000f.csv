@@ -1,3 +1,0 @@
-"0",""
-"0","cat(paste(""Getulio Vargas' speech score: "",round(mean(sent_score$polarity), 2)))"
-"1","Getulio Vargas' speech score:  0.04"

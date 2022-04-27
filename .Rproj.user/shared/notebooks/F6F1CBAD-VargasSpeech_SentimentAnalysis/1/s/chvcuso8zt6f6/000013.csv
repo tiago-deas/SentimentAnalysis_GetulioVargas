@@ -1,8 +1,0 @@
-"0",""
-"0","sent_score <- speech_final %>% "
-"0","  inner_join(dict_complete, by = c(""noMarks"" = ""word""))"
-"0",""
-"0",""
-"0","sent_score %>% "
-"0","  head(15) %>% "
-"0","  knitr::kable()"

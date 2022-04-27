@@ -1,5 +1,0 @@
-"0",""
-"0","pal <- brewer.pal(8,""Dark2"")"
-"0",""
-"0","speech_final %>% "
-"0","  with(wordcloud(word, n, random.order = F, max.words = 50, colors = pal))"
